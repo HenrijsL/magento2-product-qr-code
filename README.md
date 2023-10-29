@@ -15,7 +15,7 @@ Magento 2 Product QR Code is an extension that facilitates the generation of QR 
 4. Click on the respective button to download the QR code.
 
 
-![Magento 2 Product QR Code - Admin Product Edit](https://imageupload.io/ib/c7yzJcLeEOO9BbQ_1698592290.png)
+![Magento 2 Product QR Code - Admin Product Edit](https://drive.google.com/uc?export=view&id=1Y913Ti0-OX5bman5yzfC1Z6aBTcLt4tF)
 
 ## 🛠️ Installation
 
